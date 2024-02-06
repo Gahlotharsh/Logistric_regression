@@ -1,0 +1,8 @@
+.idea/
+src/brest_cancer_prediction_model/__pycache__/__init__.cpython-311.pyc
+src/brest_cancer_prediction_model/__pycache__/linear_regression_model.cpython-311.pyc
+src/pipline/__pycache__/__init__.cpython-311.pyc
+src/pipline/__pycache__/breast_cancer_pipline.cpython-311.pyc
+src/preprocessing/__pycache__/__init__.cpython-311.pyc
+src/preprocessing/__pycache__/pre.cpython-311.pyc
+
